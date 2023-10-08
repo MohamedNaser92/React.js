@@ -1,0 +1,24 @@
+.rd {
+	position: relative;
+}
+.verticalCenter {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	left: 50px;
+	text-align: center;
+}
+.btn {
+	background-color: #f7ea66;
+	border-radius: 30px;
+	color: #7f479a;
+	height: 50px;
+	border: none;
+	font-weight: bold;
+	width: 170px;
+}
+body {
+	background-color: #7f479a;
+}

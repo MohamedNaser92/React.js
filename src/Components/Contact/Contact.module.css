@@ -1,0 +1,47 @@
+.h1 {
+	color: #f7ea66;
+	text-align: center;
+}
+.bg {
+	margin-top: 100px;
+	height: 600px;
+}
+.single {
+	max-width: 650px;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	z-index: 2;
+}
+.single h2 {
+	font-size: 22px;
+	color: white;
+	text-transform: uppercase;
+	margin-bottom: 40px;
+}
+.single .formControl {
+	height: 50px;
+	background: rgb(44, 0, 71);
+	border-color: white;
+	border-radius: 20px 0 0 20px;
+	border-width: 1px;
+	color: white;
+	width: 500px;
+}
+.single .formControl:focus {
+	box-shadow: #f7ea66;
+	border-color: #f7ea66;
+}
+.single .btn {
+	min-height: 50px;
+	border-radius: 0 20px 20px 0;
+	background: #f7ea66;
+	color: #7f479a;
+	width: 100px;
+	border-width: 3px;
+	border-color: #f7ea66;
+}
+.h3 {
+	margin-top: 30px;
+	color: #f7ea66;
+}
