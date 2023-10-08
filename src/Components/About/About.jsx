@@ -1,5 +1,4 @@
 import 'font-awesome/css/font-awesome.min.css';
-import im from '../../Images/WhatsApp Image 2023-10-08 at 3.03.28 PM.jpeg';
 
 function About() {
 	return (
